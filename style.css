@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    color: honeydew;
+    text-align: center;
+    font-size: 40px;
+}
+
+#menu_list{
+    background-color: lightsalmon;
+    color: rgb(105, 52, 2);
+    font-size: 20px;
+    border-radius: 10px;
+}
